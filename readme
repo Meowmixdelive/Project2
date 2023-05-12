@@ -4,6 +4,8 @@ This code is meant to work as a restaurant waiting list, with integration to pag
 Code for paging phone numbers was based on the twilio service, more specifically the quickstart python guide at: 
 https://twilio.com/docs/sms/quickstart/python
 
+Requires PyQt5, twilio, and datetime packages
+
 Links for images found in the /files/ folder of the project are as follows:
 CheckMark.png: https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Ftick-png%2Fimage-tick-mark-icon-png-good-luck-charlie-wiki-2.png&tbnid=C1DGhGmHX5T6xM&vet=12ahUKEwjVx4_Xhu_-AhWVkmoFHZEBCLMQMygQegUIARCTAg..i&imgrefurl=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Ftick&docid=TBNeZw8wy9nXnM&w=512&h=512&q=check%20mark&ved=2ahUKEwjVx4_Xhu_-AhWVkmoFHZEBCLMQMygQegUIARCTAg
 RedX.png: https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fb%2Fba%2FRed_x.svg%2F1024px-Red_x.svg.png&tbnid=FBgg4U6JinLxAM&vet=12ahUKEwiip6WTh-_-AhXKoWoFHWzpBLIQMygEegUIARD_AQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ARed_x.svg&docid=UBzRtv1ibPURPM&w=1024&h=1024&q=red%20x&ved=2ahUKEwiip6WTh-_-AhXKoWoFHWzpBLIQMygEegUIARD_AQ
